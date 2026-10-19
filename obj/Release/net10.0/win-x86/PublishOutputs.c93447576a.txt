@@ -1,0 +1,2 @@
+D:\C#\ElectionCalculator\bin\Release\net10.0\publish\win-x86\ElectionCalculator.pdb
+D:\C#\ElectionCalculator\bin\Release\net10.0\publish\win-x86\ElectionCalculator.exe

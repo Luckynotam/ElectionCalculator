@@ -1,0 +1,7 @@
+D:\C#\ElectionCalculator\bin\Release\net10.0\publish\ElectionCalculator.exe
+D:\C#\ElectionCalculator\bin\Release\net10.0\publish\ElectionCalculator.dll
+D:\C#\ElectionCalculator\bin\Release\net10.0\publish\ElectionCalculator.deps.json
+D:\C#\ElectionCalculator\bin\Release\net10.0\publish\ElectionCalculator.runtimeconfig.json
+D:\C#\ElectionCalculator\bin\Release\net10.0\publish\ElectionCalculator.pdb
+D:\C#\ElectionCalculator\bin\Release\net10.0\publish\Spectre.Console.dll
+D:\C#\ElectionCalculator\bin\Release\net10.0\publish\Spectre.Console.Ansi.dll
